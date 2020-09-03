@@ -7,13 +7,13 @@ dist/
 
 # @antv/g6
 !/node_modules/@antv/g6/
-!/node_modules/@antv/g6/build/
-!/node_modules/@antv/g6/build/*.js
+!/node_modules/@antv/g6/dist/
+!/node_modules/@antv/g6/dist/*.js
 
 # @antv/hierarchy
 !/node_modules/@antv/hierarchy/
-!/node_modules/@antv/hierarchy/build/
-!/node_modules/@antv/hierarchy/build/*.js
+!/node_modules/@antv/hierarchy/dist/
+!/node_modules/@antv/hierarchy/dist/*.js
 
 # MDBlog
 !/node_modules/@mdblog/
